@@ -1,7 +1,7 @@
-### :shinto_shrine: Emmi (Any/All but mostly They/Them)
-`Habitual Emacs Masochist`
+### :shinto_shrine: Nextaria System 
+`Habitual Emacs Masochists`
 
-#### I write in:
+#### We write in:
 - C
 - Python
 - Swift
